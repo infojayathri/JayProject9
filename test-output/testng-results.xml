@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31699" started-at="2019-01-26T06:05:56Z" finished-at="2019-01-26T06:06:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31699" started-at="2019-01-26T06:05:56Z" finished-at="2019-01-26T06:06:27Z">
+      <class name="HomeWork.ExerciseJsonRead">
+        <test-method status="PASS" signature="setup()[pri:0, instance:HomeWork.ExerciseJsonRead@3b07a0d6]" name="setup" is-config="true" duration-ms="16850" started-at="2019-01-26T06:05:56Z" finished-at="2019-01-26T06:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:HomeWork.ExerciseJsonRead@3b07a0d6]" name="testAdd" duration-ms="13821" started-at="2019-01-26T06:06:12Z" finished-at="2019-01-26T06:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:HomeWork.ExerciseJsonRead@3b07a0d6]" name="tearDown" is-config="true" duration-ms="833" started-at="2019-01-26T06:06:26Z" finished-at="2019-01-26T06:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- HomeWork.ExerciseJsonRead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
